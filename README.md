@@ -131,7 +131,7 @@ processed_dataset_final/
 3. **Ground Truth**: Clean dataset reference.
 
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/placeholder/results_example.png](https://github.com/HAMZA-420/DeepFingerprint-Refiner-on-FVC-2004-Datasets/blob/master/samples/epoch_190.png)" alt="Results Example" width="700">
+  <img src="https://github.com/HAMZA-420/DeepFingerprint-Refiner-on-FVC-2004-Datasets/blob/master/samples/epoch_190.png" alt="Results Example" width="700">
 </p>
 
 ---
